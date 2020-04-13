@@ -1,7 +1,9 @@
 ---
-title: "About"
-date: 2019-04-19T21:37:58+05:30
-type: "page"
----
+title: About
+date: 2019-04-19T16:07:58.000+00:00
+type: page
 
-This is some static page where you can write about yourself.
+---
+Tentang DevFromZero adalah suatu website Pembelajaran untuk mengenai webiste, mulai dari basic bisa di bilang sangat basic
+
+karna Nama website nya juga Devfromzer (buat mulai Dari Nol)
