@@ -11,6 +11,7 @@ tags:
 categories:
 - themes
 - syntax
+draft: true
 
 ---
 Disini saya akan menjelaskan untuk pembuatan website se mudah mungkin dan tidak akan memakan waktu lama,
