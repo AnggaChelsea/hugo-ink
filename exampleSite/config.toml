@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Ink"
+title = "Aga"
 theme = "ink"
 paginate = 5
 
