@@ -1,5 +1,5 @@
 ---
-title: About
+title: Tentang DevfromZero
 date: 
 type: page
 
