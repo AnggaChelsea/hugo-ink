@@ -1,6 +1,6 @@
 ---
 title: Tentang DevfromZero
-date: 
+date: 2020-04-13T17:00:00+00:00
 type: page
 
 ---
