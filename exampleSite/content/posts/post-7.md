@@ -1,7 +1,7 @@
 ---
 title: Apa Itu UX Designer
-description: 'Menurut AgaDevWeb Ux Designer itu bukan hanya tentang bagaimana cara
-  membuat form, design, ataupun layout responsive, '
+description: Menurut AgaDevWeb Ux Designer itu bukan hanya tentang bagaimana cara
+  membuat form, design, ataupun layout responsive
 date: 2018-03-18T06:43:38.000+00:00
 
 ---
